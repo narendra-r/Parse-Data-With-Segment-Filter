@@ -1,0 +1,15 @@
+//
+//  BonsExample.pch
+//  BonsExample
+//
+//  Created by Kvana Mac Pro 2 on 1/22/16.
+//  Copyright © 2016 Kvana Mac Pro 2. All rights reserved.
+//
+
+#ifndef BonsExample_pch
+#define BonsExample_pch
+
+#import <Parse.h>
+
+
+#endif /* BonsExample_pch */
